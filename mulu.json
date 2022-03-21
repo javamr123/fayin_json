@@ -8,8 +8,28 @@
             	["第一部分", "https://www.qtfm.cn/channels/256306/programs/9164273"],
  				["第二部分", "https://www.qtfm.cn/channels/256306/programs/9164273"]
         	}
-        },
+        }
     ],
-    "fojing":{},
-    "music":{}
+    "fojing":{
+         {
+            "name":"金刚经",
+            "author":"佛祖"，
+            "image":"",
+            "link":{
+            	["第一部分", "https://www.qtfm.cn/channels/256306/programs/9164273"],
+ 				["第二部分", "https://www.qtfm.cn/channels/256306/programs/9164273"]
+        	}
+        }
+    },
+    "music":{
+    	{
+            "name":"金刚经",
+            "author":"佛祖"，
+            "image":"",
+            "link":{
+            	["第一部分", "https://www.qtfm.cn/channels/256306/programs/9164273"],
+ 				["第二部分", "https://www.qtfm.cn/channels/256306/programs/9164273"]
+        	}
+        }
+    }
 }
