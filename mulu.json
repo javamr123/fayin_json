@@ -29,7 +29,7 @@
                 "link": [
                     {
                         "title": "第一部分",
-						"authorId": 3,
+						"id": 3,
                         "url": "https://www.qtfm.cn/channels/256306/programs/9164273"
                     }
                 ]
@@ -39,14 +39,17 @@
             {
                 "name": "金刚经",
                 "author": "佛祖",
+				"authorId": 2,
                 "image": "",
                 "link": [
                     {
                         "title": "第一部分",
+						"id": 4,
                         "url": "https://www.qtfm.cn/channels/256306/programs/9164273"
                     },
                     {
                         "title": "第一部分",
+						"id": 5,
                         "url": "https://www.qtfm.cn/channels/256306/programs/9164273"
                     }
                 ]
